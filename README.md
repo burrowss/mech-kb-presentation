@@ -19,7 +19,7 @@ code and resources from the GitHub site? Well, you can! Please view [Algorithms
 &#43; Journalism =
 ?](http://cdn.rawgit.com/gkapfham/townhall2016-presentation/master/quiqleytownhall_presentation.html).
 
-For my use (keyboard presentation): Please go to 
+For my use (keyboard presentation): Please go to https://cdn.rawgit.com/burrowss/mech-kb-presentation/417e5f1e/mech_kb_presentation.html
 
 ## Installation Instructions
 
