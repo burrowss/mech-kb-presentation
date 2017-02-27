@@ -1,12 +1,12 @@
 # townhall2016-presentation
 
 This repository contains the HTML source code and additional resources for a
-presentation that I, [Gregory M.
+presentation that Professor [Gregory M.
 Kapfhammer](http://www.cs.allegheny.edu/sites/gkapfham), gave during a panel at
 a Quigley Town Hall hosted by the Journalism in the Public Interest Program and
 the Center for Political Participation at Allegheny College. The presentation's
 source code uses the [reveal.js](https://github.com/hakimel/reveal.js/)
-framework to control the display of each slide. I have developed a custom theme
+framework to control the display of each slides. He developed a custom theme
 for the slides that manages the formatting, color scheme, and the use of
 full-screen photographs on the backgrounds.
 
@@ -18,6 +18,8 @@ Are you interested in previewing the presentation without having to download the
 code and resources from the GitHub site? Well, you can! Please view [Algorithms
 &#43; Journalism =
 ?](http://cdn.rawgit.com/gkapfham/townhall2016-presentation/master/quiqleytownhall_presentation.html).
+
+For my use (keyboard presentation): Please go to 
 
 ## Installation Instructions
 
