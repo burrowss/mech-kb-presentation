@@ -10,16 +10,13 @@ framework to control the display of each slides. He developed a custom theme
 for the slides that manages the formatting, color scheme, and the use of
 full-screen photographs on the backgrounds.
 
-You are welcome to use these slides as inspiration for your own presentation. If
-you find this example useful, could I trouble you to star this repository and
-then acknowledge it in your own presentation slides?
+You are welcome to use these slides as inspiration for your own presentation. 
 
-Are you interested in previewing the presentation without having to download the
-code and resources from the GitHub site? Well, you can! Please view [Algorithms
-&#43; Journalism =
-?](http://cdn.rawgit.com/gkapfham/townhall2016-presentation/master/quiqleytownhall_presentation.html).
+Hi, I am Simon Burrows, a student at Allegheny College. The following presentation found below, is titled Mechanical Keyboards, An Unknown, Yet Fascinating Hobby.
 
-For my use (keyboard presentation): Please go to https://cdn.rawgit.com/burrowss/mech-kb-presentation/417e5f1e/mech_kb_presentation.html
+It is about the usefulness of mechanical keyboards and the community surrounding them.
+
+For my use (keyboard presentation): https://cdn.rawgit.com/burrowss/mech-kb-presentation/a2f50636/mech_kb_presentation.html
 
 ## Installation Instructions
 
